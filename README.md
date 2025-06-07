@@ -1,1 +1,1 @@
-The above are all the practical lessons we learn in the class 
+# SS2025_WEB102_02240365
